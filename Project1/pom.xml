@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>ezdi.pr2</groupId>
-  <artifactId>module2</artifactId>
+  <groupId>ezdi.pr3</groupId>
+  <artifactId>Project1</artifactId>
   <packaging>war</packaging>
   <version>1.0.0</version>
-  <name>module2 Maven Webapp</name>
+  <name>Project1 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>module2</finalName>
+    <finalName>Project1</finalName>
   </build>
 </project>
